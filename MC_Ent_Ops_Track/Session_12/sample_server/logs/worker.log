@@ -1,0 +1,4 @@
+2026-10-13T08:55:00Z INFO worker=notification-2 queue_depth=180
+2026-10-13T09:01:00Z WARN worker=notification-2 queue_depth=640
+2026-10-13T09:02:00Z WARN worker=notification-2 retries=41 window=60s
+2026-10-13T09:03:00Z ERROR worker=notification-2 message="upstream timeout"

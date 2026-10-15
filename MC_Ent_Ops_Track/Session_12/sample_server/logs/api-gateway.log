@@ -1,0 +1,5 @@
+2026-10-13T09:00:01Z INFO request_id=gw-7001 route=/v1/profile status=200 latency_ms=142
+2026-10-13T09:01:15Z WARN request_id=gw-7002 route=/v1/profile status=503 latency_ms=2100
+2026-10-13T09:02:10Z ERROR request_id=gw-7003 route=/v1/orders status=504 latency_ms=3000
+2026-10-13T09:03:22Z WARN request_id=gw-7004 route=/v1/profile status=503 latency_ms=1900
+2026-10-13T09:04:40Z INFO request_id=gw-7005 route=/v1/health status=200 latency_ms=18

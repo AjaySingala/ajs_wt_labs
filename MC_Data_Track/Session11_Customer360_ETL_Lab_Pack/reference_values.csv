@@ -1,0 +1,8 @@
+reference_code,reference_description,reference_domain
+SAVINGS,Savings account,ACCOUNT
+CURRENT,Current account,ACCOUNT
+TERM_DEPOSIT,Term deposit,ACCOUNT
+WEB,Web channel,CHANNEL
+MOBILE,Mobile channel,CHANNEL
+API,API channel,CHANNEL
+PHONE,Phone channel,CHANNEL

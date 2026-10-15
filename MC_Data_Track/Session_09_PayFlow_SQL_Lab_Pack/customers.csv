@@ -1,0 +1,9 @@
+customer_id,customer_segment,onboarding_date,country_code,customer_status
+C001,Retail,2025-01-10,IN,ACTIVE
+C002,SME,2024-11-03,IN,ACTIVE
+C003,Retail,2025-02-18,GB,ACTIVE
+C004,Corporate,2023-06-01,IN,INACTIVE
+C005,SME,2025-03-12,SG,ACTIVE
+C006,Retail,2024-09-25,IN,ACTIVE
+C007,Corporate,2022-12-14,US,ACTIVE
+C008,Retail,2025-05-21,IN,ACTIVE

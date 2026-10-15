@@ -1,0 +1,13 @@
+source_customer_id,full_name,email_address,phone_number,created_date,customer_status,segment,country_code
+C1001,Asha Mehta,asha.mehta@example.test,+91 98765 10001,2024-01-12,ACTIVE,RETAIL,IN
+C1002,Rohan Shah,rohan.shah@example.test,+91-98765-10002,2023-11-03,ACTIVE,SME,IN
+C1003,Mina Patel,mina.patel@example.test,,2024-03-21,ACTIVE,RETAIL,IN
+C1004,Dev Nair,DEV.NAIR@example.test,+91 98765 10004,2022-08-15,INACTIVE,CORPORATE,IN
+C1005,Ira Das,ira.das@example.test,+91 98765 10005,2024-06-02,ACTIVE,SME,IN
+C1006,Kabir Rao,kabir.rao@example.test,+91 98765 10006,2021-12-10,ACTIVE,RETAIL,IN
+C1007,Nisha Iyer,nisha.iyer@example.test,+91 98765 10007,2024-09-01,ACTIVE,CORPORATE,IN
+C1008,Omar Khan,omar.khan@example.test,+91 98765 10008,2023-02-18,ACTIVE,SME,IN
+C1009,Tara Bose,tara.bose@example.test,+91 98765 10009,2024-11-20,ACTIVE,RETAIL,IN
+C1010,Arjun Sen,arjun.sen@example.test,+91 98765 10010,2022-04-07,ACTIVE,SME,IN
+C1011,Leena Roy,leena.roy@example.test,+91 98765 10011,2023-07-19,ACTIVE,RETAIL,IN
+C1012,Vikram Gill,vikram.gill@example.test,+91 98765 10012,2024-02-29,ACTIVE,CORPORATE,IN

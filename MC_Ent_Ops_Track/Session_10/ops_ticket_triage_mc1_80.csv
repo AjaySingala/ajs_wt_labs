@@ -1,0 +1,81 @@
+ticket_id,created_at,service,severity,elapsed_minutes,sla_target_minutes,symptom,description,customer_impact,recent_change,assigned_team,status
+OPSX-0001,2026-09-02 19:26:00,Notification Service,P2,48,45,Login failures reported,Authentication failures across several users,Possible,No,SRE,Open
+OPSX-0002,2026-09-19 20:46:00,Reporting Scheduler,P3,95,120,Queue depth increasing,Backlog growing; consumer health not confirmed,Possible,No,App Support,Open
+OPSX-0003,2026-09-14 03:13:00,Reporting Scheduler,P2,42,60,Disk utilization high,Volume above warning threshold; growth source unknown,Unknown,Unknown,Platform Ops,Investigating
+OPSX-0004,2026-09-15 21:02:00,File Transfer Service,P2,55,60,Latency above baseline,Latency increased; dependency evidence unavailable,Unknown,Unknown,SRE,Investigating
+OPSX-0005,2026-09-20 11:39:00,Identity Gateway,P2,42,60,Disk utilization high,Volume above warning threshold; growth source unknown,Confirmed,Unknown,SRE,Open
+OPSX-0006,2026-09-24 17:39:00,Customer Portal,P3,210,240,Backup completion delayed,Backup job running longer than expected,Unknown,No,SRE,Investigating
+OPSX-0007,2026-09-08 20:18:00,Billing API,P3,130,180,Scheduled job delayed,Batch completion late; downstream impact unknown,Confirmed,No,Identity Ops,Resolved
+OPSX-0008,2026-09-07 06:18:00,Identity Gateway,P2,48,45,Login failures reported,Authentication failures across several users,Confirmed,Unknown,Platform Ops,Resolved
+OPSX-0009,2026-09-12 00:51:00,File Transfer Service,P3,130,180,Scheduled job delayed,Batch completion late; downstream impact unknown,Possible,No,Platform Ops,Resolved
+OPSX-0010,2026-09-02 02:59:00,Identity Gateway,P2,48,45,Login failures reported,Authentication failures across several users,Possible,Yes,App Support,Investigating
+OPSX-0011,2026-09-14 22:13:00,Notification Service,P3,95,120,Queue depth increasing,Backlog growing; consumer health not confirmed,Confirmed,Yes,App Support,Pending Vendor
+OPSX-0012,2026-09-21 11:45:00,Billing API,P1,12,15,Service health check failed,Critical endpoint health check failing,Unknown,No,Platform Ops,Resolved
+OPSX-0013,2026-09-16 07:22:00,Notification Service,P2,55,60,Latency above baseline,Latency increased; dependency evidence unavailable,Confirmed,Yes,Identity Ops,Investigating
+OPSX-0014,2026-09-25 01:37:00,Notification Service,P2,55,60,Latency above baseline,Latency increased; dependency evidence unavailable,Unknown,Yes,Platform Ops,Open
+OPSX-0015,2026-09-18 06:27:00,Identity Gateway,P1,12,15,Service health check failed,Critical endpoint health check failing,Possible,Yes,Identity Ops,Resolved
+OPSX-0016,2026-09-09 16:14:00,Customer Portal,P2,35,60,HTTP 5xx increased,API errors elevated; customer impact not quantified,Confirmed,No,Platform Ops,Open
+OPSX-0017,2026-09-10 02:23:00,Notification Service,P3,180,180,Scheduled job delayed,Batch completion late; downstream impact unknown,Possible,Yes,SRE,Investigating
+OPSX-0018,2026-09-23 07:24:00,Identity Gateway,P2,48,45,Login failures reported,Authentication failures across several users,Possible,No,Identity Ops,Investigating
+OPSX-0019,2026-09-02 00:01:00,Customer Portal,P4,250,240,Single user access issue,One user unable to access a service,Confirmed,Yes,App Support,Pending Vendor
+OPSX-0020,2026-09-12 12:01:00,Reporting Scheduler,P1,12,15,Service health check failed,Critical endpoint health check failing,Unknown,Yes,SRE,Investigating
+OPSX-0021,2026-09-10 22:14:00,Customer Portal,P2,35,60,HTTP 5xx increased,API errors elevated; customer impact not quantified,Confirmed,Unknown,Platform Ops,Resolved
+OPSX-0022,2026-09-13 11:22:00,Notification Service,P2,35,60,HTTP 5xx increased,API errors elevated; customer impact not quantified,Unknown,Unknown,Identity Ops,Pending Vendor
+OPSX-0023,2026-09-14 22:15:00,File Transfer Service,P1,20,240,Single user access issue,One user unable to access a service,Confirmed,Unknown,Identity Ops,Resolved
+OPSX-0024,2026-09-08 20:46:00,Billing API,P4,20,240,Single user access issue,One user unable to access a service,Unknown,Yes,Identity Ops,Resolved
+OPSX-0025,2026-09-04 11:08:00,Reporting Scheduler,P4,20,240,Single user access issue,One user unable to access a service,Unknown,No,SRE,Investigating
+OPSX-0026,2026-09-08 10:16:00,Billing API,P2,42,60,Disk utilization high,Volume above warning threshold; growth source unknown,Possible,Unknown,Platform Ops,Open
+OPSX-0027,2026-09-14 21:15:00,Billing API,P2,42,60,Disk utilization high,Volume above warning threshold; growth source unknown,Confirmed,No,Identity Ops,Resolved
+OPSX-0028,2026-09-25 07:01:00,Customer Portal,P3,95,120,Queue depth increasing,Backlog growing; consumer health not confirmed,Confirmed,No,App Support,Pending Vendor
+OPSX-0029,2026-09-17 01:56:00,Reporting Scheduler,P5,210,240,Backup completion delayed,Backup job running longer than expected,Confirmed,No,App Support,Resolved
+OPSX-0030,2026-09-03 23:15:00,Customer Portal,P2,35,60,HTTP 5xx increased,API errors elevated; customer impact not quantified,Possible,No,Identity Ops,Resolved
+OPSX-0031,2026-09-16 07:21:00,Identity Gateway,P2,35,60,HTTP 5xx increased,   ,Unknown,Unknown,SRE,Resolved
+OPSX-0032,2026-09-07 19:46:00,Reporting Scheduler,P3,130,180,Scheduled job delayed,Batch completion late; downstream impact unknown,Possible,Unknown,SRE,Open
+OPSX-0033,2026-09-11 11:21:00,Customer Portal,P3,210,240,Backup completion delayed,Backup job running longer than expected,Unknown,No,SRE,Open
+OPSX-0034,2026-09-26 07:57:00,Reporting Scheduler,P4,240,240,Single user access issue,One user unable to access a service,Possible,Yes,Platform Ops,Open
+OPSX-0035,2026-09-04 14:45:00,Reporting Scheduler,P1,12,15,Service health check failed,Critical endpoint health check failing,Unknown,No,App Support,Investigating
+OPSX-0036,2026-09-26 06:31:00,Reporting Scheduler,P3,210,240,Backup completion delayed,Backup job running longer than expected,Confirmed,Yes,Identity Ops,Open
+OPSX-0037,2026-09-19 22:49:00,Billing API,P2,48,45,Login failures reported,Authentication failures across several users,Possible,No,Platform Ops,Resolved
+OPSX-0038,2026-09-08 03:23:00,Customer Portal,P2,116,90,Certificate expiry warning,Expiry within review window; renewal status unknown,Confirmed,Yes,SRE,Pending Vendor
+OPSX-0039,2026-09-11 05:46:00,Reporting Scheduler,P2,48,45,Login failures reported,Authentication failures across several users,Unknown,Yes,Identity Ops,Resolved
+OPSX-0040,2026-09-08 09:31:00,Customer Portal,P1,12,15,Service health check failed,Critical endpoint health check failing,Confirmed,No,App Support,Resolved
+OPSX-0041,2026-09-09 06:30:00,Customer Portal,P2,48,45,Login failures reported,Authentication failures across several users,Unknown,Unknown,SRE,Resolved
+OPSX-0042,2026-09-19 12:55:00,Billing API,P2,48,45,Login failures reported,Authentication failures across several users,Possible,No,App Support,Investigating
+OPSX-0043,2026-09-11 00:53:00,Identity Gateway,P3,130,180,Scheduled job delayed,Batch completion late; downstream impact unknown,Possible,Unknown,App Support,Open
+OPSX-0044,2026-09-17 22:31:00,Identity Gateway,P2,35,60,HTTP 5xx increased,API errors elevated; customer impact not quantified,Confirmed,Unknown,SRE,Resolved
+OPSX-0045,2026-09-07 22:08:00,Identity Gateway,P2,42,60,Disk utilization high,Volume above warning threshold; growth source unknown,Possible,Unknown,Platform Ops,Investigating
+OPSX-0046,2026-09-07 18:16:00,Customer Portal,P1,75,90,Certificate expiry warning,Expiry within review window; renewal status unknown,Unknown,Yes,Platform Ops,Resolved
+OPSX-0047,2026-09-25 11:10:00,Reporting Scheduler,P3,130,180,Scheduled job delayed,Batch completion late; downstream impact unknown,Possible,Yes,SRE,Investigating
+OPSX-0048,2026-09-10 17:33:00,Billing API,P2,55,60,Latency above baseline,Latency increased; dependency evidence unavailable,Unknown,Unknown,App Support,Pending Vendor
+OPSX-0049,2026-09-05 13:14:00,Notification Service,P2,55,60,Latency above baseline,Latency increased; dependency evidence unavailable,Confirmed,Yes,Platform Ops,Investigating
+OPSX-0050,2026-09-12 06:13:00,Billing API,P2,42,60,Disk utilization high,Volume above warning threshold; growth source unknown,Confirmed,Unknown,Identity Ops,Investigating
+OPSX-0051,2026-09-25 02:43:00,Notification Service,P3,240,240,Backup completion delayed,Backup job running longer than expected,Unknown,Unknown,SRE,Open
+OPSX-0052,2026-09-11 03:39:00,Billing API,P3,130,180,Scheduled job delayed,Batch completion late; downstream impact unknown,Confirmed,Unknown,SRE,Investigating
+OPSX-0053,2026-09-14 22:11:00,Identity Gateway,P1,12,15,Service health check failed,Critical endpoint health check failing,Unknown,Unknown,App Support,Investigating
+OPSX-0054,2026-09-02 16:00:00,File Transfer Service,P2,42,60,Disk utilization high,Volume above warning threshold; growth source unknown,Possible,Unknown,Identity Ops,Pending Vendor
+OPSX-0055,2026-09-04 18:02:00,Notification Service,P2,42,60,Disk utilization high,Volume above warning threshold; growth source unknown,Possible,No,Identity Ops,Investigating
+OPSX-0056,2026-09-12 06:39:00,Identity Gateway,P1,12,15,Service health check failed,Critical endpoint health check failing,Unknown,No,Identity Ops,Resolved
+OPSX-0057,2026-09-02 23:08:00,File Transfer Service,P3,204,180,Scheduled job delayed,Batch completion late; downstream impact unknown,Possible,Unknown,SRE,Open
+OPSX-0058,2026-09-14 19:57:00,Customer Portal,P5,75,90,Certificate expiry warning,Expiry within review window; renewal status unknown,Confirmed,No,Identity Ops,Investigating
+OPSX-0059,2026-09-02 10:25:00,File Transfer Service,P2,55,60,Latency above baseline,Latency increased; dependency evidence unavailable,Confirmed,No,Identity Ops,Resolved
+OPSX-0060,2026-09-03 12:02:00,File Transfer Service,P2,42,60,Disk utilization high,Volume above warning threshold; growth source unknown,Unknown,No,Identity Ops,Open
+OPSX-0061,2026-09-24 07:12:00,Identity Gateway,P2,75,90,Certificate expiry warning,Expiry within review window; renewal status unknown,Possible,No,App Support,Investigating
+OPSX-0062,2026-09-10 20:53:00,Reporting Scheduler,P2,48,45,Login failures reported,   ,Confirmed,Unknown,Platform Ops,Investigating
+OPSX-0063,2026-09-17 03:21:00,Billing API,P3,210,240,Backup completion delayed,Backup job running longer than expected,Confirmed,Yes,App Support,Resolved
+OPSX-0064,2026-09-04 23:00:00,Notification Service,P2,42,60,Disk utilization high,Volume above warning threshold; growth source unknown,Confirmed,No,App Support,Resolved
+OPSX-0065,2026-09-20 10:06:00,File Transfer Service,P2,75,90,Certificate expiry warning,Expiry within review window; renewal status unknown,Confirmed,Yes,Identity Ops,Investigating
+OPSX-0066,2026-09-12 21:06:00,Reporting Scheduler,P1,12,15,Service health check failed,Critical endpoint health check failing,Confirmed,Yes,App Support,Open
+OPSX-0067,2026-09-25 15:45:00,File Transfer Service,P2,35,60,HTTP 5xx increased,API errors elevated; customer impact not quantified,Confirmed,Yes,SRE,Investigating
+OPSX-0068,2026-09-13 21:27:00,Reporting Scheduler,P1,15,15,Service health check failed,Critical endpoint health check failing,Unknown,Unknown,SRE,Investigating
+OPSX-0069,2026-09-22 01:30:00,Notification Service,P1,12,15,Service health check failed,Critical endpoint health check failing,Possible,No,App Support,Resolved
+OPSX-0070,2026-09-24 18:47:00,Billing API,P1,12,15,Service health check failed,Critical endpoint health check failing,Confirmed,No,App Support,Investigating
+OPSX-0071,2026-09-03 02:54:00,Billing API,P3,210,240,Backup completion delayed,Backup job running longer than expected,Possible,Yes,SRE,Investigating
+OPSX-0072,2026-09-26 01:03:00,Identity Gateway,P2,48,45,Login failures reported,Authentication failures across several users,Unknown,Unknown,App Support,Investigating
+OPSX-0073,2026-09-15 06:04:00,Billing API,P3,210,240,Backup completion delayed,Backup job running longer than expected,Possible,Yes,Platform Ops,Pending Vendor
+OPSX-0074,2026-09-06 23:16:00,Identity Gateway,P2,48,45,Login failures reported,Authentication failures across several users,Possible,No,Identity Ops,Pending Vendor
+OPSX-0075,2026-09-06 05:24:00,Customer Portal,P2,35,60,HTTP 5xx increased,API errors elevated; customer impact not quantified,Unknown,Yes,App Support,Resolved
+OPSX-0076,2026-09-15 10:53:00,Notification Service,P2,58,45,Login failures reported,Authentication failures across several users,Possible,No,App Support,Investigating
+OPSX-0077,2026-09-13 09:25:00,Identity Gateway,P2,48,45,Login failures reported,Authentication failures across several users,Confirmed,No,Identity Ops,Resolved
+OPSX-0078,2026-09-19 09:49:00,File Transfer Service,P2,42,60,Disk utilization high,Volume above warning threshold; growth source unknown,Confirmed,Unknown,SRE,Investigating
+OPSX-0079,2026-09-17 12:05:00,Identity Gateway,P2,42,60,Disk utilization high,Volume above warning threshold; growth source unknown,Unknown,Yes,Platform Ops,Pending Vendor
+OPSX-0080,2026-09-26 07:17:00,Reporting Scheduler,P2,48,45,Login failures reported,Authentication failures across several users,Unknown,Yes,SRE,Pending Vendor

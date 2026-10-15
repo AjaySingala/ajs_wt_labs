@@ -1,0 +1,301 @@
+Deal_ID,Month,Region,Product,Customer_Segment,Pipeline_Value_INR,Win_Probability,Actual_Revenue_INR,Sales_Cycle_Days,Customer_Risk
+D-0001,2026-07,North,Security Services,Enterprise,8900000,0.35,0,58,Medium
+D-0002,2026-09,East,Data Platform,Mid-Market,4300000,0.5,700000,40,High
+D-0003,2026-04,West,Data Platform,Mid-Market,2400000,0.2,5000000,144,Low
+D-0004,2026-05,West,Digital Payments,Mid-Market,7400000,0.8,1300000,103,Low
+D-0005,2026-08,East,Data Platform,SMB,6100000,0.5,2400000,46,Low
+D-0006,2026-03,East,Cloud Operations,SMB,2500000,0.2,4300000,93,High
+D-0007,2026-04,South,Analytics,SMB,5300000,0.65,6500000,101,Low
+D-0008,2026-07,West,Data Platform,Enterprise,6300000,0.5,3100000,19,Low
+D-0009,2026-07,South,Security Services,Mid-Market,4400000,0.5,100000,84,Low
+D-0010,2026-05,West,Digital Payments,Mid-Market,4100000,0.35,5100000,146,Low
+D-0011,2026-03,North,Cloud Operations,SMB,3000000,0.35,1700000,140,Low
+D-0012,2026-08,North,Security Services,SMB,7200000,0.65,6800000,73,Low
+D-0013,2026-02,East,Analytics,SMB,4800000,0.2,1400000,33,High
+D-0014,2026-09,South,Analytics,SMB,2100000,0.35,4100000,131,Low
+D-0015,2026-04,East,Digital Payments,SMB,5900000,0.2,5800000,51,High
+D-0016,2026-08,East,Analytics,Enterprise,7300000,0.65,3900000,23,Medium
+D-0017,2026-05,West,Data Platform,SMB,1100000,0.2,5400000,106,Low
+D-0018,2026-01,West,Security Services,Enterprise,3800000,0.65,2300000,52,Medium
+D-0019,2026-07,East,Security Services,Mid-Market,5000000,0.2,6900000,52,Low
+D-0020,2026-03,South,Analytics,Mid-Market,6900000,0.35,2800000,18,Low
+D-0021,2026-06,East,Analytics,Mid-Market,7000000,0.65,2900000,81,Medium
+D-0022,2026-06,South,Cloud Operations,Enterprise,1600000,0.2,5300000,22,Low
+D-0023,2026-04,West,Digital Payments,SMB,600000,0.65,600000,80,Low
+D-0024,2026-07,East,Data Platform,SMB,2900000,0.2,1700000,146,Low
+D-0025,2026-04,North,Analytics,SMB,8800000,0.5,3000000,95,Low
+D-0026,2026-09,South,Security Services,Mid-Market,3700000,0.2,2200000,127,High
+D-0027,2026-09,West,Cloud Operations,SMB,8700000,0.65,6700000,99,Medium
+D-0028,2026-07,South,Cloud Operations,Mid-Market,2500000,0.8,6000000,79,Low
+D-0029,2026-06,South,Security Services,Enterprise,7300000,0.65,5300000,52,Medium
+D-0030,2026-05,North,Data Platform,Mid-Market,8400000,0.2,5700000,112,Low
+D-0031,2026-04,West,Cloud Operations,Mid-Market,8800000,0.8,500000,36,Low
+D-0032,2026-04,East,Data Platform,Mid-Market,4000000,0.2,2700000,66,Low
+D-0033,2026-09,South,Analytics,SMB,2800000,0.65,3000000,100,Low
+D-0034,2026-07,East,Analytics,SMB,4700000,0.5,3300000,110,High
+D-0035,2026-09,East,Digital Payments,SMB,6200000,0.5,2600000,112,Low
+D-0036,2026-07,West,Analytics,Enterprise,2000000,0.2,3300000,124,Low
+D-0037,2026-03,South,Cloud Operations,Enterprise,5000000,0.8,3100000,145,High
+D-0038,2026-06,North,Security Services,SMB,8400000,0.65,5800000,61,Low
+D-0039,2026-03,South,Analytics,Mid-Market,2500000,0.8,700000,26,Low
+D-0040,2026-01,West,Security Services,Enterprise,8200000,0.35,800000,56,Low
+D-0041,2026-04,East,Cloud Operations,Enterprise,8100000,0.8,6100000,142,Low
+D-0042,2026-01,East,Digital Payments,Enterprise,6900000,0.5,6800000,91,Low
+D-0043,2026-09,East,Data Platform,Enterprise,1400000,0.8,1900000,79,Low
+D-0044,2026-09,North,Cloud Operations,Mid-Market,5200000,0.2,4700000,121,Medium
+D-0045,2026-05,South,Cloud Operations,SMB,1200000,0.2,1100000,121,Medium
+D-0046,2026-07,East,Digital Payments,SMB,300000,0.35,1000000,145,Medium
+D-0047,2026-06,West,Analytics,Enterprise,3100000,0.35,6000000,87,Low
+D-0048,2026-02,North,Analytics,SMB,8600000,0.2,2200000,98,Low
+D-0049,2026-04,South,Security Services,Enterprise,4000000,0.35,3000000,117,High
+D-0050,2026-06,East,Data Platform,SMB,1200000,0.8,4400000,31,Low
+D-0051,2026-08,South,Digital Payments,Mid-Market,7900000,0.8,5000000,101,Low
+D-0052,2026-05,East,Security Services,Enterprise,4700000,0.8,4800000,128,Low
+D-0053,2026-07,West,Analytics,Mid-Market,3300000,0.2,1000000,86,Low
+D-0054,2026-07,South,Security Services,Mid-Market,4800000,0.2,1100000,19,Low
+D-0055,2026-08,North,Cloud Operations,Enterprise,1800000,0.2,2300000,128,Medium
+D-0056,2026-09,East,Digital Payments,Enterprise,1300000,0.5,7000000,41,High
+D-0057,2026-06,East,Digital Payments,Mid-Market,5400000,0.65,1000000,80,High
+D-0058,2026-09,South,Security Services,Enterprise,1900000,0.5,3800000,86,Medium
+D-0059,2026-03,West,Data Platform,Mid-Market,3700000,0.65,3800000,141,Low
+D-0060,2026-07,North,Data Platform,SMB,8200000,0.65,2500000,135,Low
+D-0061,2026-03,North,Digital Payments,Mid-Market,4400000,0.8,4800000,102,Medium
+D-0062,2026-06,East,Analytics,Enterprise,4000000,0.5,2500000,140,Low
+D-0063,2026-04,East,Cloud Operations,Mid-Market,9000000,0.65,3100000,101,Medium
+D-0064,2026-05,East,Cloud Operations,Enterprise,7400000,0.35,6900000,64,High
+D-0065,2026-01,East,Data Platform,Mid-Market,3900000,0.2,5200000,145,Low
+D-0066,2026-06,South,Cloud Operations,SMB,2100000,0.65,4800000,36,Medium
+D-0067,2026-09,East,Analytics,SMB,9000000,0.65,6900000,27,Low
+D-0068,2026-02,West,Data Platform,SMB,8700000,0.5,2100000,29,High
+D-0069,2026-07,North,Security Services,Enterprise,300000,0.2,3300000,74,High
+D-0070,2026-09,South,Security Services,Mid-Market,5200000,0.65,6400000,56,Low
+D-0071,2026-01,East,Digital Payments,Mid-Market,5500000,0.2,1400000,54,Low
+D-0072,2026-06,North,Security Services,Enterprise,6800000,0.65,4400000,139,Low
+D-0073,2026-08,East,Cloud Operations,Enterprise,4000000,0.2,1400000,23,Low
+D-0074,2026-02,South,Data Platform,SMB,2400000,0.8,2000000,102,High
+D-0075,2026-08,East,Data Platform,Mid-Market,8200000,0.35,2300000,128,Medium
+D-0076,2026-01,South,Security Services,SMB,5600000,0.65,0,72,Low
+D-0077,2026-05,West,Analytics,Enterprise,7000000,0.35,4600000,101,Low
+D-0078,2026-08,West,Cloud Operations,SMB,6400000,0.8,4000000,117,High
+D-0079,2026-07,West,Cloud Operations,Mid-Market,6000000,0.8,2200000,94,High
+D-0080,2026-02,South,Cloud Operations,Enterprise,3200000,0.5,1400000,64,Low
+D-0081,2026-03,East,Security Services,SMB,1900000,0.8,4900000,126,Low
+D-0082,2026-09,South,Analytics,Enterprise,6400000,0.5,1700000,65,Low
+D-0083,2026-08,West,Cloud Operations,Enterprise,6400000,0.35,2400000,116,High
+D-0084,2026-09,East,Security Services,SMB,6400000,0.65,5600000,143,Low
+D-0085,2026-02,West,Data Platform,Mid-Market,600000,0.5,2800000,91,Low
+D-0086,2026-08,East,Analytics,SMB,1600000,0.8,1400000,86,High
+D-0087,2026-07,West,Security Services,SMB,2900000,0.65,1300000,81,Low
+D-0088,2026-01,East,Cloud Operations,Mid-Market,1300000,0.65,1500000,78,Low
+D-0089,2026-06,East,Data Platform,SMB,1900000,0.35,2600000,33,High
+D-0090,2026-06,North,Analytics,SMB,2300000,0.5,3700000,92,High
+D-0091,2026-05,West,Data Platform,Mid-Market,900000,0.5,1600000,51,Low
+D-0092,2026-03,North,Data Platform,SMB,5200000,0.65,1800000,86,Medium
+D-0093,2026-07,East,Digital Payments,SMB,1300000,0.65,6500000,89,Low
+D-0094,2026-08,East,Cloud Operations,SMB,200000,0.2,5800000,109,Low
+D-0095,2026-07,South,Security Services,Enterprise,6500000,0.5,4100000,90,Low
+D-0096,2026-03,East,Cloud Operations,SMB,800000,0.2,1200000,135,Low
+D-0097,2026-03,South,Security Services,Mid-Market,200000,0.65,2500000,51,Low
+D-0098,2026-03,North,Digital Payments,SMB,4800000,0.5,1000000,113,Low
+D-0099,2026-01,East,Cloud Operations,SMB,3100000,0.65,1100000,42,Low
+D-0100,2026-04,East,Digital Payments,Enterprise,7700000,0.35,6600000,131,Low
+D-0101,2026-01,North,Digital Payments,Mid-Market,9000000,0.35,6100000,36,Low
+D-0102,2026-07,West,Digital Payments,Enterprise,4200000,0.5,3800000,53,Medium
+D-0103,2026-03,South,Digital Payments,SMB,7400000,0.2,2100000,130,Low
+D-0104,2026-04,South,Security Services,SMB,8900000,0.65,2700000,40,Low
+D-0105,2026-03,West,Analytics,SMB,5100000,0.5,5400000,98,Low
+D-0106,2026-05,North,Digital Payments,Enterprise,7200000,0.8,3600000,24,Low
+D-0107,2026-04,South,Security Services,Mid-Market,8400000,0.2,3000000,144,Medium
+D-0108,2026-02,South,Security Services,SMB,7800000,0.2,6700000,21,Low
+D-0109,2026-06,South,Security Services,SMB,5500000,0.5,6900000,62,Medium
+D-0110,2026-02,West,Analytics,Enterprise,300000,0.5,2700000,28,Low
+D-0111,2026-07,North,Analytics,Mid-Market,5600000,0.65,1000000,57,Low
+D-0112,2026-02,North,Digital Payments,SMB,2800000,0.35,6800000,101,Medium
+D-0113,2026-02,North,Security Services,SMB,3200000,0.2,3100000,40,Medium
+D-0114,2026-03,East,Analytics,SMB,900000,0.5,2200000,48,Low
+D-0115,2026-03,West,Data Platform,Mid-Market,4600000,0.8,6600000,84,Low
+D-0116,2026-07,South,Cloud Operations,SMB,1700000,0.2,4200000,127,Low
+D-0117,2026-09,West,Cloud Operations,SMB,7500000,0.2,6300000,134,High
+D-0118,2026-07,West,Security Services,SMB,2300000,0.5,2000000,83,Low
+D-0119,2026-03,South,Analytics,Enterprise,700000,0.2,3100000,29,Medium
+D-0120,2026-07,East,Data Platform,Enterprise,600000,0.8,5300000,75,Low
+D-0121,2026-05,East,Cloud Operations,Mid-Market,1100000,0.8,4700000,48,High
+D-0122,2026-01,South,Data Platform,SMB,700000,0.65,800000,137,Low
+D-0123,2026-06,North,Digital Payments,SMB,6000000,0.2,4700000,69,Low
+D-0124,2026-06,South,Security Services,Mid-Market,7700000,0.65,2500000,80,Low
+D-0125,2026-01,East,Digital Payments,Enterprise,7100000,0.5,100000,103,Low
+D-0126,2026-07,North,Digital Payments,Enterprise,6900000,0.35,5300000,143,Low
+D-0127,2026-03,North,Digital Payments,Enterprise,3100000,0.8,5200000,113,Medium
+D-0128,2026-02,West,Analytics,Enterprise,8300000,0.65,900000,33,Medium
+D-0129,2026-03,South,Cloud Operations,Mid-Market,4200000,0.65,4100000,99,Medium
+D-0130,2026-05,South,Digital Payments,Enterprise,1900000,0.8,1300000,57,Low
+D-0131,2026-03,East,Security Services,Mid-Market,5400000,0.2,6800000,109,Low
+D-0132,2026-08,North,Security Services,Mid-Market,1700000,0.2,2000000,95,High
+D-0133,2026-01,South,Cloud Operations,Enterprise,1300000,0.35,4500000,119,High
+D-0134,2026-01,North,Cloud Operations,Enterprise,500000,0.65,5700000,81,Low
+D-0135,2026-08,West,Data Platform,Enterprise,300000,0.2,2800000,51,Low
+D-0136,2026-07,North,Digital Payments,SMB,7700000,0.5,900000,23,Low
+D-0137,2026-04,East,Data Platform,Enterprise,4400000,0.2,500000,136,Low
+D-0138,2026-03,East,Security Services,Mid-Market,500000,0.65,5400000,62,Low
+D-0139,2026-04,South,Cloud Operations,Mid-Market,5900000,0.35,400000,80,Low
+D-0140,2026-09,East,Analytics,Mid-Market,900000,0.2,3500000,116,Low
+D-0141,2026-08,South,Analytics,Enterprise,8200000,0.8,200000,115,Low
+D-0142,2026-09,East,Cloud Operations,SMB,6600000,0.5,4900000,87,Low
+D-0143,2026-01,North,Analytics,Enterprise,500000,0.5,700000,138,High
+D-0144,2026-07,South,Data Platform,Enterprise,3300000,0.35,3400000,32,Low
+D-0145,2026-07,North,Data Platform,Enterprise,3200000,0.8,4000000,109,High
+D-0146,2026-01,North,Analytics,SMB,2000000,0.8,2400000,144,High
+D-0147,2026-06,South,Security Services,Enterprise,1300000,0.2,2900000,74,Low
+D-0148,2026-09,East,Digital Payments,Mid-Market,8000000,0.35,1600000,105,Low
+D-0149,2026-06,West,Digital Payments,Enterprise,7700000,0.35,1400000,111,Low
+D-0150,2026-07,East,Analytics,Enterprise,4500000,0.5,4100000,52,Low
+D-0151,2026-08,East,Cloud Operations,Enterprise,7300000,0.8,4500000,75,High
+D-0152,2026-03,East,Cloud Operations,SMB,9000000,0.5,1600000,63,Low
+D-0153,2026-07,West,Data Platform,SMB,4200000,0.8,2800000,44,Medium
+D-0154,2026-03,North,Digital Payments,Enterprise,4600000,0.5,2100000,40,Low
+D-0155,2026-08,West,Cloud Operations,Enterprise,3300000,0.2,4400000,83,Low
+D-0156,2026-01,West,Security Services,Mid-Market,5500000,0.35,5200000,144,Medium
+D-0157,2026-06,East,Digital Payments,Mid-Market,7500000,0.35,2000000,133,Low
+D-0158,2026-01,North,Digital Payments,Mid-Market,3500000,0.2,900000,105,Low
+D-0159,2026-07,South,Digital Payments,SMB,1300000,0.5,6100000,25,Medium
+D-0160,2026-03,East,Data Platform,Enterprise,1400000,0.5,2600000,66,Medium
+D-0161,2026-05,North,Cloud Operations,Enterprise,1400000,0.2,5000000,143,Low
+D-0162,2026-01,North,Digital Payments,Mid-Market,1300000,0.5,6100000,69,Low
+D-0163,2026-01,South,Data Platform,SMB,3900000,0.2,6000000,47,Low
+D-0164,2026-07,East,Security Services,SMB,3500000,0.2,6900000,117,Low
+D-0165,2026-07,East,Cloud Operations,Enterprise,5900000,0.2,3300000,130,Medium
+D-0166,2026-05,South,Cloud Operations,SMB,900000,0.35,1200000,39,Low
+D-0167,2026-07,South,Analytics,Enterprise,5100000,0.8,5300000,139,High
+D-0168,2026-05,East,Cloud Operations,Enterprise,5200000,0.2,6400000,150,High
+D-0169,2026-03,West,Security Services,Enterprise,2300000,0.35,2400000,50,Low
+D-0170,2026-08,West,Security Services,Enterprise,8200000,0.35,3300000,99,Low
+D-0171,2026-02,East,Analytics,Mid-Market,7200000,0.5,3500000,135,Low
+D-0172,2026-09,East,Digital Payments,Mid-Market,2100000,0.35,1200000,45,High
+D-0173,2026-02,North,Analytics,Mid-Market,5400000,0.5,4900000,142,High
+D-0174,2026-08,West,Data Platform,Mid-Market,5300000,0.35,5100000,27,Medium
+D-0175,2026-06,South,Digital Payments,SMB,6200000,0.5,4700000,23,Low
+D-0176,2026-06,North,Cloud Operations,Mid-Market,8900000,0.2,2900000,52,Low
+D-0177,2026-08,North,Cloud Operations,SMB,5500000,0.8,1100000,66,Medium
+D-0178,2026-04,East,Security Services,SMB,4900000,0.2,6500000,58,Low
+D-0179,2026-06,East,Data Platform,SMB,7400000,0.2,2200000,67,Low
+D-0180,2026-01,South,Digital Payments,Mid-Market,800000,0.5,2500000,88,Low
+D-0181,2026-08,East,Digital Payments,SMB,500000,0.35,4700000,143,High
+D-0182,2026-08,South,Security Services,SMB,7200000,0.5,4400000,59,Low
+D-0183,2026-02,North,Digital Payments,Mid-Market,800000,0.35,2700000,74,Low
+D-0184,2026-04,North,Security Services,SMB,400000,0.2,6000000,51,Low
+D-0185,2026-01,South,Cloud Operations,SMB,4100000,0.5,5400000,114,Low
+D-0186,2026-08,North,Data Platform,Mid-Market,4000000,0.8,5000000,44,Low
+D-0187,2026-09,North,Analytics,SMB,7800000,0.8,3600000,94,Low
+D-0188,2026-09,West,Cloud Operations,Mid-Market,8300000,0.5,3500000,84,Low
+D-0189,2026-04,South,Analytics,Enterprise,900000,0.8,5100000,99,Low
+D-0190,2026-01,East,Cloud Operations,Mid-Market,5500000,0.65,4900000,27,High
+D-0191,2026-04,North,Data Platform,SMB,7000000,0.65,4500000,147,Low
+D-0192,2026-03,South,Cloud Operations,Enterprise,6200000,0.35,3300000,64,Low
+D-0193,2026-02,South,Cloud Operations,Enterprise,4100000,0.65,4200000,113,Low
+D-0194,2026-05,East,Digital Payments,Mid-Market,800000,0.8,900000,138,Low
+D-0195,2026-09,West,Security Services,SMB,4000000,0.65,600000,56,Low
+D-0196,2026-04,North,Security Services,SMB,6000000,0.35,4000000,64,Low
+D-0197,2026-09,North,Data Platform,Mid-Market,8300000,0.2,0,133,Low
+D-0198,2026-04,South,Analytics,Enterprise,6400000,0.2,1600000,129,Medium
+D-0199,2026-07,East,Security Services,Mid-Market,200000,0.2,6800000,69,Low
+D-0200,2026-01,North,Analytics,Enterprise,400000,0.2,3100000,75,Low
+D-0201,2026-06,South,Digital Payments,Mid-Market,6600000,0.8,3900000,60,Low
+D-0202,2026-01,North,Cloud Operations,Mid-Market,6800000,0.8,6700000,104,Medium
+D-0203,2026-03,North,Security Services,Mid-Market,2600000,0.35,5100000,22,Low
+D-0204,2026-04,South,Data Platform,SMB,400000,0.8,6400000,61,Low
+D-0205,2026-07,West,Security Services,SMB,3400000,0.8,600000,30,Low
+D-0206,2026-01,West,Digital Payments,Mid-Market,5800000,0.65,1500000,82,Medium
+D-0207,2026-03,South,Digital Payments,Mid-Market,5500000,0.2,6600000,87,High
+D-0208,2026-03,East,Digital Payments,SMB,8100000,0.2,3600000,47,Low
+D-0209,2026-09,South,Analytics,Enterprise,3500000,0.8,2500000,109,Medium
+D-0210,2026-06,South,Digital Payments,SMB,6500000,0.35,6100000,102,Low
+D-0211,2026-01,West,Digital Payments,Enterprise,7500000,0.65,1900000,41,High
+D-0212,2026-02,West,Cloud Operations,SMB,3100000,0.65,3700000,85,Medium
+D-0213,2026-01,West,Data Platform,Enterprise,3900000,0.5,4000000,127,Low
+D-0214,2026-02,West,Digital Payments,Enterprise,8600000,0.35,4200000,109,Medium
+D-0215,2026-05,West,Cloud Operations,Mid-Market,2500000,0.2,5100000,120,Medium
+D-0216,2026-05,East,Security Services,Mid-Market,8500000,0.35,1400000,51,Low
+D-0217,2026-03,West,Security Services,SMB,6300000,0.8,5600000,64,High
+D-0218,2026-07,North,Analytics,Enterprise,8900000,0.35,6100000,142,Low
+D-0219,2026-07,East,Digital Payments,Enterprise,3500000,0.5,100000,75,Low
+D-0220,2026-09,West,Security Services,SMB,3300000,0.65,4400000,116,Low
+D-0221,2026-01,West,Data Platform,SMB,6200000,0.65,2100000,37,Medium
+D-0222,2026-06,South,Cloud Operations,Mid-Market,800000,0.8,2800000,114,Medium
+D-0223,2026-05,West,Security Services,Mid-Market,7500000,0.65,1100000,145,Medium
+D-0224,2026-06,West,Security Services,SMB,8500000,0.2,1300000,121,Medium
+D-0225,2026-01,West,Digital Payments,SMB,8100000,0.5,6500000,70,Medium
+D-0226,2026-06,North,Digital Payments,Enterprise,6000000,0.5,6000000,111,Medium
+D-0227,2026-02,West,Data Platform,Enterprise,4500000,0.5,3700000,113,Low
+D-0228,2026-01,South,Security Services,Enterprise,5400000,0.2,3200000,68,Low
+D-0229,2026-03,East,Data Platform,Mid-Market,2600000,0.5,1300000,124,Low
+D-0230,2026-03,East,Security Services,SMB,7700000,0.8,1700000,145,Low
+D-0231,2026-01,East,Analytics,Mid-Market,6700000,0.35,2200000,50,Low
+D-0232,2026-07,North,Analytics,Mid-Market,5500000,0.8,3100000,88,Medium
+D-0233,2026-06,North,Security Services,Enterprise,1900000,0.65,6500000,94,High
+D-0234,2026-06,South,Data Platform,Enterprise,8100000,0.5,4400000,51,Low
+D-0235,2026-09,North,Digital Payments,Mid-Market,7300000,0.65,5300000,91,Medium
+D-0236,2026-01,West,Digital Payments,Mid-Market,2000000,0.2,700000,69,Low
+D-0237,2026-03,North,Cloud Operations,Enterprise,900000,0.5,2600000,26,Low
+D-0238,2026-08,West,Analytics,SMB,7300000,0.35,4900000,78,High
+D-0239,2026-05,West,Security Services,Mid-Market,5500000,0.5,7000000,31,Low
+D-0240,2026-05,South,Analytics,Mid-Market,3000000,0.5,6900000,68,Low
+D-0241,2026-05,East,Data Platform,SMB,1100000,0.35,2200000,149,Low
+D-0242,2026-07,West,Security Services,Mid-Market,7300000,0.5,1600000,59,High
+D-0243,2026-05,West,Cloud Operations,Mid-Market,2100000,0.2,1900000,100,High
+D-0244,2026-01,North,Security Services,SMB,7200000,0.5,900000,99,High
+D-0245,2026-04,South,Analytics,Enterprise,6600000,0.35,5300000,121,Low
+D-0246,2026-06,South,Data Platform,SMB,4400000,0.5,4600000,93,Low
+D-0247,2026-09,West,Digital Payments,SMB,4600000,0.65,3000000,80,Low
+D-0248,2026-06,East,Digital Payments,Mid-Market,3400000,0.8,3600000,24,High
+D-0249,2026-07,East,Security Services,Enterprise,3900000,0.35,4100000,149,Low
+D-0250,2026-02,South,Analytics,SMB,200000,0.2,2600000,72,Medium
+D-0251,2026-02,South,Analytics,SMB,5700000,0.2,1900000,24,Medium
+D-0252,2026-06,West,Digital Payments,Enterprise,800000,0.35,3200000,36,High
+D-0253,2026-04,North,Security Services,Mid-Market,5900000,0.65,5500000,98,Low
+D-0254,2026-07,West,Analytics,Enterprise,8400000,0.8,800000,29,Low
+D-0255,2026-07,West,Cloud Operations,SMB,4000000,0.8,1100000,90,Medium
+D-0256,2026-07,East,Digital Payments,Mid-Market,2200000,0.8,2800000,52,Medium
+D-0257,2026-06,South,Cloud Operations,SMB,8400000,0.5,100000,54,Low
+D-0258,2026-01,West,Analytics,SMB,5200000,0.8,7000000,39,Low
+D-0259,2026-04,North,Data Platform,Mid-Market,8400000,0.8,1800000,59,Low
+D-0260,2026-04,North,Data Platform,Enterprise,2500000,0.8,600000,136,High
+D-0261,2026-02,North,Digital Payments,Mid-Market,1400000,0.35,6200000,102,Low
+D-0262,2026-03,South,Digital Payments,Mid-Market,8100000,0.2,2400000,99,Medium
+D-0263,2026-08,North,Analytics,SMB,4100000,0.8,1900000,111,Low
+D-0264,2026-08,South,Digital Payments,Mid-Market,3300000,0.35,5500000,88,Low
+D-0265,2026-03,North,Security Services,Mid-Market,5900000,0.5,3900000,142,High
+D-0266,2026-02,South,Analytics,Enterprise,3700000,0.35,6800000,68,Low
+D-0267,2026-02,West,Digital Payments,SMB,8200000,0.2,5100000,72,Low
+D-0268,2026-05,East,Data Platform,Mid-Market,5200000,0.35,3700000,52,Medium
+D-0269,2026-09,West,Security Services,Mid-Market,6600000,0.2,3000000,60,High
+D-0270,2026-03,East,Data Platform,Enterprise,7400000,0.8,1800000,141,Low
+D-0271,2026-01,South,Security Services,Enterprise,1000000,0.5,4700000,77,Low
+D-0272,2026-04,North,Security Services,Mid-Market,6000000,0.2,500000,100,Low
+D-0273,2026-09,North,Cloud Operations,SMB,7100000,0.8,2200000,114,Medium
+D-0274,2026-07,West,Analytics,Mid-Market,5000000,0.35,6600000,121,Low
+D-0275,2026-06,East,Security Services,SMB,200000,0.8,1700000,130,Low
+D-0276,2026-04,West,Analytics,SMB,3700000,0.35,1900000,65,Low
+D-0277,2026-07,West,Data Platform,Mid-Market,4400000,0.2,6100000,140,Medium
+D-0278,2026-04,South,Security Services,Enterprise,3300000,0.2,1600000,59,Low
+D-0279,2026-09,West,Analytics,Enterprise,900000,0.35,3300000,64,High
+D-0280,2026-07,West,Cloud Operations,Enterprise,2900000,0.65,6000000,141,Low
+D-0281,2026-04,East,Analytics,Enterprise,7600000,0.35,6500000,85,Low
+D-0282,2026-06,East,Analytics,SMB,1000000,0.35,4800000,116,Low
+D-0283,2026-02,West,Data Platform,SMB,6600000,0.65,1900000,42,Low
+D-0284,2026-09,West,Analytics,SMB,1700000,0.2,6100000,51,High
+D-0285,2026-01,East,Analytics,Mid-Market,4900000,0.2,6700000,127,Low
+D-0286,2026-09,East,Cloud Operations,SMB,7500000,0.2,5400000,52,Low
+D-0287,2026-09,South,Digital Payments,Mid-Market,7800000,0.8,5200000,83,Low
+D-0288,2026-01,West,Analytics,SMB,1700000,0.8,0,114,Low
+D-0289,2026-06,East,Cloud Operations,Enterprise,2100000,0.65,3200000,84,High
+D-0290,2026-08,North,Analytics,Mid-Market,8900000,0.65,2600000,123,High
+D-0291,2026-09,South,Cloud Operations,SMB,7300000,0.65,3200000,96,High
+D-0292,2026-06,East,Data Platform,SMB,1700000,0.35,5700000,59,Low
+D-0293,2026-04,East,Cloud Operations,SMB,8000000,0.2,2000000,117,Low
+D-0294,2026-02,South,Security Services,SMB,5700000,0.2,800000,85,Low
+D-0295,2026-07,West,Analytics,Enterprise,5100000,0.65,6600000,91,High
+D-0296,2026-01,South,Security Services,Mid-Market,300000,0.35,6600000,91,Low
+D-0297,2026-01,South,Analytics,Enterprise,8800000,0.2,4600000,79,Low
+D-0298,2026-03,West,Cloud Operations,Mid-Market,4700000,0.65,5100000,69,High
+D-0299,2026-01,West,Digital Payments,SMB,3800000,0.8,4400000,106,Low
+D-0300,2026-04,South,Security Services,Mid-Market,7500000,0.2,3300000,62,Medium

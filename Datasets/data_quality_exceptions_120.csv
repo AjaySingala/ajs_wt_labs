@@ -1,0 +1,121 @@
+Exception_ID,Detected_Date,Dataset,Field,Rule,Issue,Severity,Affected_Rows,Business_Process,Owner,Status
+DQE-0001,2026-09-04,Claims,Customer_Email,Conformance,Invalid email format,Medium,149,Claims,Finance Ops,Remediated
+DQE-0002,2026-09-26,Claims,Customer_ID,Completeness,Null customer identifier,Critical,528,Claims,Finance Ops,Accepted Risk
+DQE-0003,2026-09-19,Products,Currency_Code,Validity,Unsupported currency,Medium,1577,Customer Onboarding,Finance Ops,Accepted Risk
+DQE-0004,2026-09-15,Claims,Product_Code,Referential,Unknown product code,High,1766,Billing,Application Team,Open
+DQE-0005,2026-09-03,Products,Transaction_Date,Validity,Future transaction date,High,1298,Customer Onboarding,Data Operations,Remediated
+DQE-0006,2026-09-12,Claims,Currency_Code,Validity,Unsupported currency,Medium,1098,Billing,Finance Ops,Investigating
+DQE-0007,2026-09-03,Products,Transaction_Date,Validity,Future transaction date,High,1380,Settlement,Data Engineering,Investigating
+DQE-0008,2026-09-11,Orders,Currency_Code,Validity,Unsupported currency,Medium,448,Claims,Finance Ops,Investigating
+DQE-0009,2026-09-22,Customers,Product_Code,Referential,Unknown product code,High,1022,Customer Onboarding,Data Operations,Investigating
+DQE-0010,2026-09-09,Customers,Duplicate_Key,Uniqueness,Duplicate business key,Critical,470,Customer Onboarding,Data Operations,Remediated
+DQE-0011,2026-09-25,Payments,Transaction_Amount,Validity,Negative transaction amount,Critical,246,Billing,Application Team,Open
+DQE-0012,2026-09-28,Claims,Duplicate_Key,Uniqueness,Duplicate business key,Critical,87,Reporting,Finance Ops,Remediated
+DQE-0013,2026-09-29,Claims,Currency_Code,Validity,Unsupported currency,Medium,1780,Settlement,Application Team,Investigating
+DQE-0014,2026-09-30,Claims,Duplicate_Key,Uniqueness,Duplicate business key,Critical,574,Reporting,Data Operations,Investigating
+DQE-0015,2026-09-17,Products,Customer_ID,Completeness,Null customer identifier,Critical,980,Claims,Data Engineering,Remediated
+DQE-0016,2026-09-28,Customers,Currency_Code,Validity,Unsupported currency,Medium,937,Billing,Application Team,Remediated
+DQE-0017,2026-09-01,Payments,Product_Code,Referential,Unknown product code,High,1381,Customer Onboarding,Application Team,Open
+DQE-0018,2026-09-12,Claims,Transaction_Date,Validity,Future transaction date,High,1766,Settlement,Data Operations,Remediated
+DQE-0019,2026-09-09,Products,Transaction_Amount,Validity,Negative transaction amount,Critical,1256,Settlement,Finance Ops,Investigating
+DQE-0020,2026-09-14,Customers,Currency_Code,Validity,Unsupported currency,Medium,859,Settlement,Finance Ops,Accepted Risk
+DQE-0021,2026-09-15,Customers,Transaction_Date,Validity,Future transaction date,High,1171,Customer Onboarding,Data Operations,Open
+DQE-0022,2026-09-09,Customers,Product_Code,Referential,Unknown product code,High,1138,Reporting,Application Team,Investigating
+DQE-0023,2026-09-26,Customers,Transaction_Amount,Validity,Negative transaction amount,Critical,969,Billing,Data Operations,Accepted Risk
+DQE-0024,2026-09-05,Claims,Currency_Code,Validity,Unsupported currency,Medium,1094,Settlement,Application Team,Remediated
+DQE-0025,2026-09-18,Claims,Transaction_Date,Validity,Future transaction date,High,98,Reporting,Data Engineering,Investigating
+DQE-0026,2026-09-07,Orders,Customer_ID,Completeness,Null customer identifier,Critical,976,Billing,Application Team,Remediated
+DQE-0027,2026-09-12,Orders,Transaction_Date,Validity,Future transaction date,High,1148,Claims,Finance Ops,Remediated
+DQE-0028,2026-09-14,Payments,Customer_ID,Completeness,Null customer identifier,Critical,720,Claims,Data Operations,Investigating
+DQE-0029,2026-09-10,Orders,Duplicate_Key,Uniqueness,Duplicate business key,Critical,666,Claims,Application Team,Accepted Risk
+DQE-0030,2026-09-13,Claims,Customer_ID,Completeness,Null customer identifier,Critical,587,Reporting,Data Operations,Investigating
+DQE-0031,2026-09-26,Orders,Product_Code,Referential,Unknown product code,High,864,Claims,Application Team,Open
+DQE-0032,2026-09-06,Orders,Customer_ID,Completeness,Null customer identifier,Critical,468,Settlement,Finance Ops,Remediated
+DQE-0033,2026-09-09,Claims,Product_Code,Referential,Unknown product code,High,1321,Reporting,Finance Ops,Accepted Risk
+DQE-0034,2026-09-28,Orders,Duplicate_Key,Uniqueness,Duplicate business key,Critical,1532,Claims,Application Team,Accepted Risk
+DQE-0035,2026-09-06,Payments,Transaction_Amount,Validity,Negative transaction amount,Critical,257,Customer Onboarding,Finance Ops,Open
+DQE-0036,2026-09-06,Products,Transaction_Amount,Validity,Negative transaction amount,Critical,211,Billing,Data Engineering,Accepted Risk
+DQE-0037,2026-09-02,Payments,Customer_Email,Conformance,Invalid email format,Medium,1579,Reporting,Data Engineering,Open
+DQE-0038,2026-09-20,Customers,Transaction_Date,Validity,Future transaction date,High,173,Reporting,Finance Ops,Investigating
+DQE-0039,2026-09-24,Orders,Transaction_Amount,Validity,Negative transaction amount,Critical,908,Customer Onboarding,Data Operations,Investigating
+DQE-0040,2026-09-02,Orders,Customer_ID,Completeness,Null customer identifier,Critical,1763,Settlement,Application Team,Accepted Risk
+DQE-0041,2026-09-18,Orders,Duplicate_Key,Uniqueness,Duplicate business key,Critical,1124,Reporting,Data Operations,Investigating
+DQE-0042,2026-09-20,Products,Customer_Email,Conformance,Invalid email format,Medium,1293,Claims,Application Team,Remediated
+DQE-0043,2026-09-16,Claims,Transaction_Date,Validity,Future transaction date,High,466,Billing,Application Team,Remediated
+DQE-0044,2026-09-14,Orders,Transaction_Date,Validity,Future transaction date,High,319,Settlement,Data Engineering,Open
+DQE-0045,2026-09-27,Customers,Customer_Email,Conformance,Invalid email format,Medium,705,Settlement,Application Team,Open
+DQE-0046,2026-09-30,Products,Product_Code,Referential,Unknown product code,High,1548,Reporting,Finance Ops,Open
+DQE-0047,2026-09-14,Orders,Duplicate_Key,Uniqueness,Duplicate business key,Critical,1223,Customer Onboarding,Data Engineering,Remediated
+DQE-0048,2026-09-14,Claims,Transaction_Amount,Validity,Negative transaction amount,Critical,896,Reporting,Data Operations,Investigating
+DQE-0049,2026-09-24,Products,Product_Code,Referential,Unknown product code,High,1697,Reporting,Data Operations,Remediated
+DQE-0050,2026-09-14,Customers,Customer_ID,Completeness,Null customer identifier,Critical,1059,Claims,Finance Ops,Remediated
+DQE-0051,2026-09-24,Claims,Product_Code,Referential,Unknown product code,High,1657,Settlement,Application Team,Investigating
+DQE-0052,2026-09-03,Customers,Duplicate_Key,Uniqueness,Duplicate business key,Critical,280,Settlement,Data Engineering,Accepted Risk
+DQE-0053,2026-09-15,Orders,Customer_Email,Conformance,Invalid email format,Medium,1435,Claims,Application Team,Investigating
+DQE-0054,2026-09-01,Customers,Transaction_Date,Validity,Future transaction date,High,102,Claims,Data Engineering,Investigating
+DQE-0055,2026-09-10,Orders,Customer_ID,Completeness,Null customer identifier,Critical,257,Reporting,Data Engineering,Investigating
+DQE-0056,2026-09-05,Payments,Customer_ID,Completeness,Null customer identifier,Critical,1011,Customer Onboarding,Finance Ops,Accepted Risk
+DQE-0057,2026-09-26,Products,Transaction_Date,Validity,Future transaction date,High,761,Reporting,Data Engineering,Remediated
+DQE-0058,2026-09-27,Customers,Customer_ID,Completeness,Null customer identifier,Critical,115,Settlement,Application Team,Open
+DQE-0059,2026-09-16,Customers,Customer_Email,Conformance,Invalid email format,Medium,394,Settlement,Application Team,Open
+DQE-0060,2026-09-25,Customers,Customer_ID,Completeness,Null customer identifier,Critical,789,Reporting,Data Operations,Open
+DQE-0061,2026-09-15,Payments,Transaction_Amount,Validity,Negative transaction amount,Critical,1068,Customer Onboarding,Application Team,Accepted Risk
+DQE-0062,2026-09-10,Orders,Product_Code,Referential,Unknown product code,High,325,Billing,Data Engineering,Remediated
+DQE-0063,2026-09-21,Orders,Currency_Code,Validity,Unsupported currency,Medium,407,Settlement,Data Engineering,Investigating
+DQE-0064,2026-09-08,Products,Customer_ID,Completeness,Null customer identifier,Critical,665,Billing,Data Operations,Remediated
+DQE-0065,2026-09-04,Products,Customer_Email,Conformance,Invalid email format,Medium,1617,Customer Onboarding,Data Engineering,Open
+DQE-0066,2026-09-26,Products,Customer_Email,Conformance,Invalid email format,Medium,1410,Claims,Data Operations,Remediated
+DQE-0067,2026-09-03,Customers,Duplicate_Key,Uniqueness,Duplicate business key,Critical,323,Reporting,Data Engineering,Remediated
+DQE-0068,2026-09-21,Payments,Duplicate_Key,Uniqueness,Duplicate business key,Critical,123,Settlement,Data Operations,Open
+DQE-0069,2026-09-16,Customers,Transaction_Amount,Validity,Negative transaction amount,Critical,649,Claims,Finance Ops,Accepted Risk
+DQE-0070,2026-09-07,Payments,Product_Code,Referential,Unknown product code,High,1412,Reporting,Finance Ops,Investigating
+DQE-0071,2026-09-29,Payments,Transaction_Date,Validity,Future transaction date,High,994,Reporting,Finance Ops,Accepted Risk
+DQE-0072,2026-09-19,Customers,Transaction_Amount,Validity,Negative transaction amount,Critical,1114,Settlement,Finance Ops,Accepted Risk
+DQE-0073,2026-09-28,Claims,Transaction_Date,Validity,Future transaction date,High,1763,Claims,Data Operations,Open
+DQE-0074,2026-09-05,Products,Customer_Email,Conformance,Invalid email format,Medium,606,Settlement,Finance Ops,Accepted Risk
+DQE-0075,2026-09-25,Claims,Customer_ID,Completeness,Null customer identifier,Critical,777,Customer Onboarding,Data Engineering,Remediated
+DQE-0076,2026-09-20,Customers,Duplicate_Key,Uniqueness,Duplicate business key,Critical,657,Billing,Application Team,Investigating
+DQE-0077,2026-09-22,Products,Customer_Email,Conformance,Invalid email format,Medium,1569,Claims,Data Operations,Remediated
+DQE-0078,2026-09-14,Orders,Transaction_Date,Validity,Future transaction date,High,227,Billing,Data Engineering,Open
+DQE-0079,2026-09-05,Customers,Duplicate_Key,Uniqueness,Duplicate business key,Critical,1789,Billing,Data Operations,Open
+DQE-0080,2026-09-07,Payments,Currency_Code,Validity,Unsupported currency,Medium,66,Claims,Application Team,Accepted Risk
+DQE-0081,2026-09-20,Claims,Customer_Email,Conformance,Invalid email format,Medium,525,Billing,Finance Ops,Investigating
+DQE-0082,2026-09-23,Payments,Customer_Email,Conformance,Invalid email format,Medium,27,Customer Onboarding,Application Team,Open
+DQE-0083,2026-09-26,Payments,Currency_Code,Validity,Unsupported currency,Medium,740,Claims,Application Team,Remediated
+DQE-0084,2026-09-23,Payments,Duplicate_Key,Uniqueness,Duplicate business key,Critical,1687,Claims,Finance Ops,Open
+DQE-0085,2026-09-03,Orders,Product_Code,Referential,Unknown product code,High,160,Customer Onboarding,Data Engineering,Open
+DQE-0086,2026-09-08,Claims,Product_Code,Referential,Unknown product code,High,790,Customer Onboarding,Data Operations,Investigating
+DQE-0087,2026-09-21,Customers,Customer_Email,Conformance,Invalid email format,Medium,1144,Claims,Application Team,Open
+DQE-0088,2026-09-21,Claims,Duplicate_Key,Uniqueness,Duplicate business key,Critical,734,Reporting,Application Team,Open
+DQE-0089,2026-09-26,Customers,Transaction_Amount,Validity,Negative transaction amount,Critical,1127,Reporting,Finance Ops,Investigating
+DQE-0090,2026-09-20,Products,Customer_Email,Conformance,Invalid email format,Medium,722,Settlement,Finance Ops,Remediated
+DQE-0091,2026-09-25,Products,Currency_Code,Validity,Unsupported currency,Medium,1692,Settlement,Data Operations,Investigating
+DQE-0092,2026-09-25,Claims,Currency_Code,Validity,Unsupported currency,Medium,1525,Settlement,Finance Ops,Accepted Risk
+DQE-0093,2026-09-13,Payments,Currency_Code,Validity,Unsupported currency,Medium,1488,Billing,Finance Ops,Open
+DQE-0094,2026-09-05,Orders,Customer_Email,Conformance,Invalid email format,Medium,14,Settlement,Data Operations,Investigating
+DQE-0095,2026-09-11,Payments,Duplicate_Key,Uniqueness,Duplicate business key,Critical,1581,Settlement,Data Operations,Open
+DQE-0096,2026-09-15,Orders,Customer_ID,Completeness,Null customer identifier,Critical,320,Customer Onboarding,Finance Ops,Remediated
+DQE-0097,2026-09-08,Customers,Customer_Email,Conformance,Invalid email format,Medium,525,Settlement,Data Engineering,Accepted Risk
+DQE-0098,2026-09-30,Customers,Customer_Email,Conformance,Invalid email format,Medium,1504,Billing,Finance Ops,Accepted Risk
+DQE-0099,2026-09-16,Claims,Transaction_Amount,Validity,Negative transaction amount,Critical,1679,Billing,Finance Ops,Open
+DQE-0100,2026-09-26,Claims,Product_Code,Referential,Unknown product code,High,782,Billing,Data Engineering,Remediated
+DQE-0101,2026-09-29,Products,Transaction_Date,Validity,Future transaction date,High,854,Billing,Data Operations,Open
+DQE-0102,2026-09-25,Products,Product_Code,Referential,Unknown product code,High,111,Settlement,Data Engineering,Remediated
+DQE-0103,2026-09-19,Customers,Customer_Email,Conformance,Invalid email format,Medium,670,Claims,Data Operations,Investigating
+DQE-0104,2026-09-22,Products,Customer_ID,Completeness,Null customer identifier,Critical,913,Claims,Data Engineering,Investigating
+DQE-0105,2026-09-10,Products,Currency_Code,Validity,Unsupported currency,Medium,304,Customer Onboarding,Finance Ops,Open
+DQE-0106,2026-09-19,Payments,Currency_Code,Validity,Unsupported currency,Medium,1123,Reporting,Finance Ops,Open
+DQE-0107,2026-09-17,Products,Currency_Code,Validity,Unsupported currency,Medium,1585,Customer Onboarding,Data Operations,Accepted Risk
+DQE-0108,2026-09-07,Products,Customer_Email,Conformance,Invalid email format,Medium,810,Claims,Data Operations,Investigating
+DQE-0109,2026-09-03,Orders,Transaction_Amount,Validity,Negative transaction amount,Critical,1591,Reporting,Finance Ops,Open
+DQE-0110,2026-09-22,Products,Customer_ID,Completeness,Null customer identifier,Critical,868,Settlement,Finance Ops,Investigating
+DQE-0111,2026-09-12,Claims,Transaction_Date,Validity,Future transaction date,High,1343,Billing,Finance Ops,Investigating
+DQE-0112,2026-09-20,Products,Transaction_Date,Validity,Future transaction date,High,1277,Customer Onboarding,Application Team,Open
+DQE-0113,2026-09-08,Customers,Duplicate_Key,Uniqueness,Duplicate business key,Critical,1404,Settlement,Data Operations,Open
+DQE-0114,2026-09-24,Payments,Customer_ID,Completeness,Null customer identifier,Critical,498,Claims,Data Operations,Remediated
+DQE-0115,2026-09-11,Payments,Customer_ID,Completeness,Null customer identifier,Critical,625,Reporting,Application Team,Open
+DQE-0116,2026-09-07,Claims,Transaction_Date,Validity,Future transaction date,High,434,Customer Onboarding,Finance Ops,Accepted Risk
+DQE-0117,2026-09-24,Customers,Customer_Email,Conformance,Invalid email format,Medium,1424,Billing,Application Team,Open
+DQE-0118,2026-09-06,Payments,Transaction_Date,Validity,Future transaction date,High,582,Customer Onboarding,Finance Ops,Open
+DQE-0119,2026-09-21,Payments,Currency_Code,Validity,Unsupported currency,Medium,137,Reporting,Finance Ops,Remediated
+DQE-0120,2026-09-04,Payments,Duplicate_Key,Uniqueness,Duplicate business key,Critical,600,Reporting,Data Operations,Accepted Risk
